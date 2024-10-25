@@ -18,9 +18,6 @@ I'm a passionate software developer with over 7 years of experience in building 
 - Architecting resilient cloud solutions
 - Optimizing development processes with best practices and tools
 
-### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=icpsoni&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
 ---
 
 ### 📫 How to Reach Me
